@@ -1,0 +1,37 @@
+Quartus II Archive log --	/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2.qarlog
+
+Archive:	/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2.qar
+Date:		Fri Oct 11 20:10:08 2019
+Quartus II 32-bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+
+	=========== Files Selected: ===========
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/SDC1.sdc
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/Waveform.vwf
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/assignment_defaults.qdf
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/bcd2ssd.vhd
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/bcd2ssd_max2.vhd
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/bcd2ssd_max5.vhd
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/bcd_timer_2019_2.qpf
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/contMux.vhd
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/count23.vhd
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/count59.vhd
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/countN.vhd
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/demux.vhd
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/incremental_db/compiled_partitions/top_timer_de2_115.db_info
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/mux.vhd
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/pll_50mhz_10khz.cmp
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/pll_50mhz_10khz.ppf
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/pll_50mhz_10khz.qip
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/pll_50mhz_10khz.vhd
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/relogio.vhd
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/timer_comp.vhd
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/timer_tb.vht
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/top_level.vhd
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/top_level_mux.vhd
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/top_timer_de2_115.qsf
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/top_timer_de2_115.vhd
+/home/aluno/Dlp2_codes/A2_2019_2_restored/bcd_timer_2019_2_restored/top_timer_de2_115_assignment_defaults.qdf
+	======= Total: 26 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

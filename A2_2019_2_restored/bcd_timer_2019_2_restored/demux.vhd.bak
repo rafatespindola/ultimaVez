@@ -1,0 +1,24 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+-----------------------------------------------------------
+entity demux is
+port(
+hourU, minU, secU : out  std_logic_vector(3 downto 0);
+sel : in std_logic_vector (1 downto 0);
+entrada : in std_logic_vector(6 downto 0)
+);
+end demux;
+-----------------------------------------------------------
+architecture rtl of demux is
+begin
+
+process(sel)
+begin
+  case sel is
+    when "00" => hourU <= entrada;
+    when "01" => minU  <= entrada;
+    when "10" => secU <= entrada;
+    when others => secU <= entrada;
+  end case;
+end process p_demux;
+end rtl;
